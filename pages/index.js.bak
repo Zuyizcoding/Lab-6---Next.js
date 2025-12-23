@@ -1,0 +1,7 @@
+// THIS FILE IS NOT USED - Blog listing has been moved to /blog
+// To avoid conflict with app/page.tsx, this file has been renamed
+// The actual blog listing is at pages/blog/index.js
+
+export default function NotUsed() {
+  return null;
+}
